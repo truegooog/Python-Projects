@@ -1,4 +1,3 @@
 <p align="center">
-  <img src="https://secondarycriminalautoresponder.shadow-vm.repl.co/COOl.png" width="350" title="hover text">
+  <img src="https://secondarycriminalautoresponder.shadow-vm.repl.co/COOl.png" width="350" title="Python Projects">
 </p>
-<img src="https://secondarycriminalautoresponder.shadow-vm.repl.co/2.png" width="350" title="hover text">
